@@ -1,0 +1,29 @@
+
+[
+    {
+      "firstname": "Dennis",
+      "lastname" : "Doe",
+      "email": "me@hotmail.com",
+      "number": 85656743743,
+      "branch": "Branch 1",
+      "amount": 50000
+    },
+    {
+        "firstname": "Chris",
+        "lastname" : "Smalling",
+        "email": "ChrisSmalling@hotmail.com",
+        "number": 857876858038,
+        "branch": "Branch 2",
+        "amount": 70000
+    },
+    {
+
+        "firstname": "Andrew",
+        "lastname" : "Mwiti",
+        "email": "HDTV@hotmail.com",
+        "number": 87565793962,
+        "branch": "Branch 3",
+        "amount": 100000
+    }
+    
+]
